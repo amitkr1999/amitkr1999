@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">I am currently pursuing Bachelor of Technology(B.Tech.) in Computer Science Engineering .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkr1999&label=Profile%20views&color=0e75b6&style=flat" alt="amitkr1999" /> </p>
+
 
 - 🌱 I’m currently learning **Java**
 
